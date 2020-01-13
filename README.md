@@ -22,10 +22,12 @@ Em matemática o fatorial de um número natural (representado por *N!*) é defin
 
 
 **Entrada**
+
 A entrada contém um único número *N*.
 
 
 **Saída**
+
 O fatorial de *N*.
 
 
