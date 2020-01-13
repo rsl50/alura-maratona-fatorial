@@ -20,14 +20,18 @@ Em matemática o fatorial de um número natural (representado por *N!*) é defin
 
 **N! = N * (N − 1) * (N − 2) * ... * 2 * 1**
 
+
 **Entrada**
 A entrada contém um único número *N*.
+
 
 **Saída**
 O fatorial de *N*.
 
-**rESTRIÇÕES**
+
+**Restrições**
 > 0 ≤ *N* ≤ 12
+
 
 **Exemplos**
 
