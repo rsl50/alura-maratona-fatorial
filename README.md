@@ -50,8 +50,3 @@ Entrada:
 Saída:
 120
 ````
-
-**Note**
-> In the first sample, the first player erases *3* and the second erases *1*. *2* is left on the board.
-
-> In the second sample, *2* is left on the board regardless of the actions of the players.
